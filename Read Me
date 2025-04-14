@@ -1,0 +1,19 @@
+# C++ Graphics Assignment - Cyan Window Close on Keypress
+
+## Description
+This assignment creates a cyan-colored graphics window using C++ `graphics.h`. The window title is set to my full name and will close when the user presses the first letter of my name ("S" for Shahanawas).
+
+## Features
+- Graphics window with cyan background
+- Text message displayed on screen
+- Window closes on keypress `'S'`
+
+## Run Instructions
+1. Install Turbo C++ or configure graphics.h in Code::Blocks
+2. Compile and run `main.cpp`
+3. Press `'S'` to exit the graphics window.
+
+## Author
+**Shahanawas Ali Shuvo**
+
+> _Proven to work on my system. Screenshot is attached._
